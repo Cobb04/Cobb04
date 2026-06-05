@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/badge/Skill-podcast--to--course-C98A4A?style=flat-square&logo=github&logoColor=white" alt="podcast-to-course"/>
   </a>
 
-
-  <a href="chenxnovo49@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-chenxnovo49@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 </div>
