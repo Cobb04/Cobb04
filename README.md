@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+ShannonC.+AI+PM" alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=700&pause=100000&lines=🎧+把播客变成可复用的AI判断力.+🛠️+Creator+of+podcast-to-course.;" alt="Info"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=700&pause=100000&lines=🎧+产品sense宝宝回家+DankCoder.+🛠️+Creator+of+podcast-to-course.;" alt="Info"/>
 
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
