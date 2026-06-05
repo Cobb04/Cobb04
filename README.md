@@ -1,10 +1,31 @@
-<p align="center">
-  <samp>
-    <b>Hi, I'm Cobb.</b><br>
-    AI 产品 · Builder · Learner<br>
-    把播客变成可复用的判断力
-  </samp>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+ShannonC.+AI+PM" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=700&pause=100000&lines=🎧+把播客变成可复用的AI判断力.+🛠️+Creator+of+podcast-to-course.;" alt="Info"/>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>AI 播客深度学习者 · 在做 podcast-to-course · 关注 AI 产品判断力</strong>
+  </p>
+
+  <p>
+    <code>📍 Shanghai, China.</code>
+  </p>
+
+<p>
+  <a href="https://github.com/Cobb04/podcast-to-course" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Skill-podcast--to--course-C98A4A?style=flat-square&logo=github&logoColor=white" alt="podcast-to-course"/>
+  </a>
+
+  <a href="https://x.com/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Twitter-@ShannonC-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="mailto:shannon@example.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-shannon@example.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
+
+</div>
 
 ---
 
