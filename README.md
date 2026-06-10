@@ -35,7 +35,7 @@
 
 ### 📌 Projects
 
-- **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把任何播客转写变成可复用的 AI 判断资产。基于 [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) 构建。
+- **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把AI相关播客变成人可食的课程和AI可食的LLM Wiki。基于 [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) 构建。
 
 ---
 
