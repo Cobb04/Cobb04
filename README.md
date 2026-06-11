@@ -34,7 +34,7 @@
 ---
 
 ### 📌 Projects
-
+### 🔧 Skills
 - **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把AI相关播客变成人可食的课程和AI可食的LLM Wiki。基于 [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) 构建。
 
 ---
