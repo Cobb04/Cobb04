@@ -11,12 +11,6 @@
     <code>📍 Shanghai, China.</code>
   </p>
 
-<p>
-  <a href="https://github.com/Cobb04/podcast-to-course" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Skill-podcast--to--course-C98A4A?style=flat-square&logo=github&logoColor=white" alt="podcast-to-course"/>
-  </a>
-
-</p>
 
 </div>
 
