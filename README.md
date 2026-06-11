@@ -30,6 +30,7 @@
 ### 📌 Projects
 ### 🔧 Skills
 - **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把AI相关播客变成人可食的课程和AI可食的LLM Wiki。基于 [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) 构建。
+- **[kaoyan-vocab-overlay](https://github.com/Cobb04/kaoyan-vocab-overlay)** — 🎓 考研词汇低干扰标注。在中文聊天中偷偷塞考研高频词，让你摸鱼时顺便背单词。
 
 ---
 
