@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+ShannonC.+AI+PM/DankCoder" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+ShannonCC.+AI+PM/DankCoder" alt="Hi"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&weight=700&color=C98A4A&center=true&vCenter=true&width=700&pause=100000&lines=🎧+产品sense宝宝回家+🛠️;" alt="Info"/>
 
   <p>
@@ -27,10 +27,15 @@
 
 ---
 
-### 📌 Projects
-### 🔧 Skills
-- **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把AI相关播客变成人可食的课程和AI可食的LLM Wiki。基于 [codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) 构建。
-- **[kaoyan-vocab-overlay](https://github.com/Cobb04/kaoyan-vocab-overlay)** — 🎓 考研词汇低干扰标注。在中文聊天中偷偷塞考研高频词，让你摸鱼时顺便背单词。
+### 🚀 Projects
+
+- **[Codex Level](https://github.com/Cobb04/Codex-Level)** — 把 Codex 用量做成 QQ 等级：写代码不仅要跑测试，成年人也得看经验条涨。
+
+### 🔧 Skill Projects
+
+- **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把几小时播客榨成框架卡、决策清单和交互课程：耳朵听不完，就让 Agent 先替脑子上课。
+- **[ai-builders-gazette](https://github.com/Cobb04/ai-builders-gazette)** — 把 AI Builders 的信息洪水印成一份赛博早报：替你刷动态，但暂时不能替你停止焦虑。
+- **[kaoyan-vocab-overlay](https://github.com/Cobb04/kaoyan-vocab-overlay)** — 往中文聊天里偷偷撒考研词汇：摸鱼不耽误背单词，背单词也不耽误摸鱼。
 
 ---
 
@@ -39,4 +44,3 @@
   <i>"Fake1tUnt1llMake1t."</i>
 </p>
 </blockquote>
-
