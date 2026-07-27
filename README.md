@@ -16,7 +16,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 <samp>
 
@@ -27,11 +27,11 @@
 
 ---
 
-### 🚀 Projects
+### Projects
 
 - **[Codex Level](https://github.com/Cobb04/Codex-Level)** — 把 Codex 用量做成 QQ 等级：写代码不仅要跑测试，成年人也得看经验条涨。
 
-### 🔧 Skill Projects
+### Skill Projects
 
 - **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把几小时播客榨成框架卡、决策清单和交互课程：耳朵听不完，就让 Agent 先替脑子上课。
 - **[ai-builders-gazette](https://github.com/Cobb04/ai-builders-gazette)** — 把 AI Builders 的信息洪水印成一份赛博早报：替你刷动态，但暂时不能替你停止焦虑。
