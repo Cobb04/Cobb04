@@ -1,46 +1,68 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&pause=100000&lines=Hi,+I'm+ShannonCC.+AI+PM/DankCoder" alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&weight=700&color=C98A4A&center=true&vCenter=true&width=700&pause=100000&lines=🎧+产品sense宝宝回家+🛠️;" alt="Info"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img alt="Cobb04 — tools for thinking with machines" src="./assets/profile-light.svg" width="100%">
+</picture>
 
-  <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>Agent应用层产品经理 · 在做一些自己感兴趣的SKILL/Agent</strong>
-  </p>
-
-  <p>
-    <code>📍 Shanghai, China.</code>
-  </p>
-
-
-</div>
-
----
-
-### About Me
-
-<samp>
-
-- 🎧 CAU在读，农！
-- 🛠️ 如蟑螂般在AI PM世界游虫，得物 👉 飞书深诺 👉 蔚来
-
-</samp>
-
----
-
-### Projects
-
-- **[Codex Level](https://github.com/Cobb04/Codex-Level)** — 把 Codex 用量做成 QQ 等级：写代码不仅要跑测试，成年人也得看经验条涨。
-
-### Skill Projects
-
-- **[podcast-to-course](https://github.com/Cobb04/podcast-to-course)** — 把几小时播客榨成框架卡、决策清单和交互课程：耳朵听不完，就让 Agent 先替脑子上课。
-- **[ai-builders-gazette](https://github.com/Cobb04/ai-builders-gazette)** — 把 AI Builders 的信息洪水印成一份赛博早报：替你刷动态，但暂时不能替你停止焦虑。
-- **[kaoyan-vocab-overlay](https://github.com/Cobb04/kaoyan-vocab-overlay)** — 往中文聊天里偷偷撒考研词汇：摸鱼不耽误背单词，背单词也不耽误摸鱼。
-
----
-
-<blockquote>
 <p align="center">
-  <i>"Fake1tUnt1llMake1t."</i>
+  <strong>AI product builder · skill maker · lifelong learner</strong><br>
+  <sub>Turning product judgment into small tools people can actually use.</sub>
 </p>
-</blockquote>
+
+<p align="center">
+  <a href="https://cobb04.github.io">website ↗</a>
+  &nbsp;·&nbsp;
+  <a href="#selected-work">selected work</a>
+  &nbsp;·&nbsp;
+  <a href="#current-practice">current practice</a>
+</p>
+
+<br>
+
+## Hello, I’m ShannonC.
+
+I’m an AI product builder in Shanghai. I like turning fuzzy ideas into small, opinionated tools—some help people work with agents, some make learning stick, and some exist because software can still be playful.
+
+**把模糊的产品感觉，做成可以摸到、运行、反复使用的东西。**
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 · MACOS / SWIFT</sub>
+      <h3><a href="https://github.com/Cobb04/Codex-Level">Codex Level ↗</a></h3>
+      <p>Turns lifetime Codex usage into QQ-style levels. Coding agents count tokens; this makes the progress feel alive.</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 · AGENT SKILL / LEARNING</sub>
+      <h3><a href="https://github.com/Cobb04/podcast-to-course">podcast-to-course ↗</a></h3>
+      <p>Turns long conversations into framework cards, decision checklists, interview prompts and a browsable course.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>03 · AGENT SKILL / MEDIA</sub>
+      <h3><a href="https://github.com/Cobb04/ai-builders-gazette">AI Builders Gazette ↗</a></h3>
+      <p>A newspaper-style daily for builders who would rather build than keep scrolling through the information flood.</p>
+    </td>
+    <td width="50%" valign="top">
+      <sub>04 · AGENT SKILL / LANGUAGE</sub>
+      <h3><a href="https://github.com/Cobb04/kaoyan-vocab-overlay">kaoyan-vocab-overlay ↗</a></h3>
+      <p>Quietly plants exam vocabulary inside everyday Chinese conversations—learning without opening another tab.</p>
+    </td>
+  </tr>
+</table>
+
+## Current practice
+
+`01` **Products with a point of view** — not feature piles, but small systems with a reason to exist.<br>
+`02` **Skills that bottle judgment** — turning a good process into something an agent can repeat.<br>
+`03` **Learning that leaves an artifact** — notes are better when they become tools, prompts or tiny courses.
+
+<br>
+
+<p align="center">
+  <sub>率道而行 · SHANGHAI, CN</sub><br>
+  <strong>Make the idea tangible.</strong>
+</p>
