@@ -1,21 +1,7 @@
-<img src="./assets/field-device-04.png" alt="A museum display case containing a vintage computer, a glowing red specimen, a pressed plant and a metal dial connected by red thread" width="100%">
+<img src="./assets/exchagent-banner.png" alt="EXCHAGENT" width="100%">
 
 <p align="center">
-  <sub>PRIVATE DIGITAL MUSEUM · ACCESSION NO. 04 · SHANGHAI</sub>
-</p>
-
-<h1 align="center">FIELD DEVICE / 04</h1>
-
-<p align="center">
-  <em>A cabinet for things that did not exist<br>until curiosity became executable.</em>
-</p>
-
-<p align="center">
-  <a href="#the-collection">enter the collection</a>
-  &nbsp;·&nbsp;
-  <a href="#acquisition-policy">acquisition policy</a>
-  &nbsp;·&nbsp;
-  <a href="https://cobb04.github.io">field notes ↗</a>
+  <strong><em>“Taste is all you need.”</em></strong>
 </p>
 
 <br>
