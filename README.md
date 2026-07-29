@@ -6,16 +6,11 @@
 
 <br>
 
-### Curator’s note
+I’m **Cobb**.
 
-I’m **ShannonC**. I collect questions and release them as small working systems.
-
-I do not really believe an idea is understood when it is written down. I trust it more after it has become an interface, a tool, a strange little machine someone else can touch.
-
-**我不太相信「想明白了」；我更相信把它做出来，再看看它到底是什么。**
+One day, you’ll use something I made.
 
 <br>
-
 ## The collection
 
 <table>
