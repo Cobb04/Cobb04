@@ -46,6 +46,3 @@ Learning agent harness engineering by taking DeepSeek Harness apart, piece by pi
 
 ---
 
-<p align="center">
-  <em>Fakeitunti11umakeit</em>
-</p>
