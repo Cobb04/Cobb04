@@ -29,20 +29,3 @@ One day, you’ll use something I made.
 [**clawd-on-desk**](https://github.com/rullerzhou-afk/clawd-on-desk): A desktop companion that makes coding agents visible while they work.
 
 ---
-
-## ✦ Landed
-
-### 🎧[podcast-to-course](https://github.com/Cobb04/podcast-to-course)
-
-Turn podcasts and long-form conversations into courses you can actually learn from — not just summaries.
-
-### 🐧 [Codex-Level](https://github.com/Cobb04/Codex-Level)
-
-A playful progression system that turns invisible Codex token usage into QQ Level.
-
-### 🐳 [Learn-DeepSeek-Harness](https://github.com/Cobb04/Learn-DeepSeek-Harness)
-
-Learning agent harness engineering by taking DeepSeek Harness apart, piece by piece.
-
----
-
